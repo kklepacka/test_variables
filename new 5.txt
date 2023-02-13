@@ -1,0 +1,5 @@
+REMARQUES VARIABLES
+
+PAS POSSIBLE D'UTILISER %% - donc pas de variables interpretables pour Windows
+
+Il y a une anomalie, quand on choisit une variable dans une liste nombreuse, la derniere variable disparait de la liste (trouvable via recherche mais quand même)
