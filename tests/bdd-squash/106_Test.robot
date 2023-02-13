@@ -12,7 +12,8 @@ Test Teardown    Test Teardown
 Test
     [Documentation]    Test
 
-    Given test 11var
+    Given test INT
+    Given test NON-INT
 
 
 *** Keywords ***
