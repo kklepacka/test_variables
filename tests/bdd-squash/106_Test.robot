@@ -12,21 +12,11 @@ Test Teardown    Test Teardown
 Test
     [Documentation]    Test
 
-    Given test 1var
-    Given test 2var
-    Given test var1
-    Given test var2
-    Given test var10
-    Given test var11
-    Given test var12
-    Given test var13
-    Given test var14
-    Given test var15
-    Given test var16
-    Given test var17
-    Given test var18
-    Given test var19
-    Given test var20
+    Given test 10var
+    Given test 11var
+    Given test 12var
+    Given test 13var
+
 
 
 *** Keywords ***
