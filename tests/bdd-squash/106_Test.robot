@@ -13,7 +13,7 @@ Test
     [Documentation]    Test
 
     Given test 1var
-    Given test 2varw
+    Given test 2var
     Given test var1
     Given test var2
     Given test var10
