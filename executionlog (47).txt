@@ -1,0 +1,7 @@
+Workflow Workflow for Squash TM Suite with id e4c08cc88649e59501864b0704830018
+(running in namespace 'default')
+[2023-02-13T13:46:37] [job b142b4b9-e317-4b2f-9323-3bbe8f105471] Requesting execution environment providing ['linux', 'robotframework'] in namespace 'default' for job 'squashTMJob-0'
+[2023-02-13T13:46:37] [job b142b4b9-e317-4b2f-9323-3bbe8f105471] Running function actioncheckoutv2
+[2023-02-13T13:46:38] [job b142b4b9-e317-4b2f-9323-3bbe8f105471] Releasing execution environment for job 'squashTMJob-0'
+[2023-02-13T13:46:38] [job b142b4b9-e317-4b2f-9323-3bbe8f105471] /tmp/b142b4b9-e317-4b2f-9323-3bbe8f105471_0.sh: line 17: export: `2var=8071': not a valid identifier
+[2023-02-13T13:46:38] [job b142b4b9-e317-4b2f-9323-3bbe8f105471] ERROR: At least one step in job b142b4b9-e317-4b2f-9323-3bbe8f105471 returned a non-zero value.
