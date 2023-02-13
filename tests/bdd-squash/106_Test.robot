@@ -12,7 +12,6 @@ Test Teardown    Test Teardown
 Test
     [Documentation]    Test
 
-    Given test 1var
     Given test var1
     Given test var2
     Given test var10
