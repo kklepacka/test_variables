@@ -1,0 +1,24 @@
+Workflow Workflow for Squash TM Suite with id e4c08cc88649e59501864b60cd080056
+(running in namespace 'default')
+[2023-02-13T15:24:41] [job b87031b6-d3d6-4997-a428-29f924599ae8] Requesting execution environment providing ['linux', 'robotframework'] in namespace 'default' for job 'squashTMJob-0'
+[2023-02-13T15:24:41] [job b87031b6-d3d6-4997-a428-29f924599ae8] Running function actioncheckoutv2
+[2023-02-13T15:24:43] [job b87031b6-d3d6-4997-a428-29f924599ae8] Running function robotframeworkparamsv1
+[2023-02-13T15:24:43] [job b87031b6-d3d6-4997-a428-29f924599ae8] Cloning into 'test_variables'...
+[2023-02-13T15:24:45] [job b87031b6-d3d6-4997-a428-29f924599ae8] Running function robotframeworkexecutev1
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] ==============================================================================
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] 106 Test :: Test
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] ==============================================================================
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] Test :: Test                                                          i am alive
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] i am alive $toto
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] | PASS |
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] ------------------------------------------------------------------------------
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] 106 Test :: Test                                                      | PASS |
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] 1 test, 1 passed, 0 failed
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] ==============================================================================
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] Output:  /home/otf/b87031b6-d3d6-4997-a428-29f924599ae8/output.xml
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] Log:     /home/otf/b87031b6-d3d6-4997-a428-29f924599ae8/log.html
+[2023-02-13T15:24:59] [job b87031b6-d3d6-4997-a428-29f924599ae8] Report:  /home/otf/b87031b6-d3d6-4997-a428-29f924599ae8/report.html
+[2023-02-13T15:25:05] [job b87031b6-d3d6-4997-a428-29f924599ae8] find: 'browser/screenshot': No such file or directory
+[2023-02-13T15:25:05] [job b87031b6-d3d6-4997-a428-29f924599ae8] find: 'browser/screenshot': No such file or directory
+[2023-02-13T15:25:06] [job b87031b6-d3d6-4997-a428-29f924599ae8] find: 'browser/screenshot': No such file or directory
+[2023-02-13T15:25:14] [job b87031b6-d3d6-4997-a428-29f924599ae8] Releasing execution environment for job 'squashTMJob-0'
