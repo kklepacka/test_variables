@@ -12,7 +12,8 @@ Test Teardown    Test Teardown
 Test
     [Documentation]    Test
 
-    Given test
+    Given test-NInt
+    Given test-Int
 
 
 *** Keywords ***
