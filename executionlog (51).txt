@@ -1,0 +1,24 @@
+Workflow Workflow for Squash TM Suite with id e4c08cc88649e59501864b64ce630058
+(running in namespace 'default')
+[2023-02-13T15:29:03] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Requesting execution environment providing ['linux', 'robotframework'] in namespace 'default' for job 'squashTMJob-0'
+[2023-02-13T15:29:04] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Running function actioncheckoutv2
+[2023-02-13T15:29:05] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Running function robotframeworkparamsv1
+[2023-02-13T15:29:05] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Cloning into 'test_variables'...
+[2023-02-13T15:29:08] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Running function robotframeworkexecutev1
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] ==============================================================================
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] 106 Test :: Test
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] ==============================================================================
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Test :: Test                                                          i am alive 19685
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] i am alive $$
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] | PASS |
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] ------------------------------------------------------------------------------
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] 106 Test :: Test                                                      | PASS |
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] 1 test, 1 passed, 0 failed
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] ==============================================================================
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Output:  /home/otf/9850de63-c03a-4791-972c-2cfcc8138c07/output.xml
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Log:     /home/otf/9850de63-c03a-4791-972c-2cfcc8138c07/log.html
+[2023-02-13T15:29:22] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Report:  /home/otf/9850de63-c03a-4791-972c-2cfcc8138c07/report.html
+[2023-02-13T15:29:28] [job 9850de63-c03a-4791-972c-2cfcc8138c07] find: 'browser/screenshot': No such file or directory
+[2023-02-13T15:29:28] [job 9850de63-c03a-4791-972c-2cfcc8138c07] find: 'browser/screenshot': No such file or directory
+[2023-02-13T15:29:29] [job 9850de63-c03a-4791-972c-2cfcc8138c07] find: 'browser/screenshot': No such file or directory
+[2023-02-13T15:29:37] [job 9850de63-c03a-4791-972c-2cfcc8138c07] Releasing execution environment for job 'squashTMJob-0'
