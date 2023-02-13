@@ -13,8 +13,6 @@ Test
     [Documentation]    Test
 
     Given test 11var
-    Given test 12var
-    Given test 13var
 
 
 *** Keywords ***
